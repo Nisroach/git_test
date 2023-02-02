@@ -1,3 +1,4 @@
 Hello World!
 Im learning how to use Git and Github!
 you got this wade!
+testing git commit to see if submitting git commit will pop up a tab with text editor.
